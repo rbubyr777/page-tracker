@@ -1,7 +1,6 @@
 import unittest.mock
 import pytest
 
-from page_tracker.app import app
 from redis import ConnectionError
 
 
